@@ -1,7 +1,9 @@
 # Computer Science Engineer
 
 ### Education
-Currently enrolled as B.tech CSE student at Lovely Professional University
+-10th std Pallotti Hill Public School
+-12th std Spring Valley Public School
+-Currently enrolled as B.tech CSE student at Lovely Professional University
 
 ### Work Experience
 -
